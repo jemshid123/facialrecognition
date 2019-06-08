@@ -15,9 +15,9 @@ Dependencies
 <img src='images/img8133.jpg' />
 
 #Extracted faces
-<img src='images/img8130.jpg' />
-<img src='images/img8131.jpg' />
-<img src='images/img8132.jpg' />
+<img src='faces/face8130.jpg' />
+<img src='faces/face8131.jpg' />
+<img src='faces/face8132.jpg' />
 
 
 

@@ -1,8 +1,8 @@
-# facial recognition using openCV
+# Facial recognition using openCV
 This repo contain python code to recognize face from an image using opencv and extract the faces
 
 Just clone this repo and run the face.py using python 3.2 or above. Input the image file name when prompted .the <b>/faces</b> folder 
-will contain extracted faces and <b>/images</b> folder will contain original image with face regions square boxed"
+will contain extracted faces and <b>/images</b> folder will contain original image with face regions square boxed
 
 Dependencies 
 
@@ -11,4 +11,14 @@ Dependencies
  <li>matplotlib</li>
 </ul>
 
+#Square Boxed faces
 <img src='images/img8133.jpg' />
+
+#Extracted faces
+<img src='images/img8130.jpg' />
+<img src='images/img8131.jpg' />
+<img src='images/img8132.jpg' />
+
+
+
+

@@ -11,10 +11,10 @@ Dependencies
  <li>matplotlib</li>
 </ul>
 
-#Square Boxed faces
+# Square Boxed faces
 <img src='images/img8133.jpg' />
 
-#Extracted faces
+# Extracted faces
 <img src='faces/face8130.jpg' />
 <img src='faces/face8131.jpg' />
 <img src='faces/face8132.jpg' />
